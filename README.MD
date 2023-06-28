@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sk783/Sk783/blob/main/not%20stopping%20here%2C.png)
 <h1 align="center">Hi 👋, I'm Sharad Kumar</h1>
-<h3 align="center">I'm a persuing graduation in Computer Science 🎓 from Gautam Buddha University 🏛. I am passionate towards JAVA development and Object oriented programming concepts and I'm an aspiring software engineer from India. I'm currently working on Data Structures and Algorithms.</h3>
+<p align="center">I'm a persuing graduation in Computer Science 🎓 from Gautam Buddha University 🏛. I am passionate towards JAVA development and Object oriented programming concepts and I'm an aspiring software engineer from India. I'm currently working on Data Structures and Algorithms.</p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c498lead70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk783&label=Profile%20views&color=0e75b6&style=flat" alt="sk783" /> </p>
