@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **JAVA**
 - 👨‍💻 All of my projects are available at [https://sharadportfolio.vercel.app/](https://sharadportfolio.vercel.app/)
 - 📫 How to reach me **20ics059@gbu.ac.in**
-- 📄 Know about my experiences [https://sharad-resume.tiiny.site)
+- 📄 Know about my experiences https://sharad-resume.tiiny.site
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
